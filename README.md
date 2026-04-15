@@ -1,4 +1,4 @@
-# Hi, I'm Vinzent 👋
+# Hi, I'm Vinzent 
 
 Computer Science student at **San José State University** interested in building systems that turn messy real-world inputs into useful software.
 
